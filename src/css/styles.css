@@ -1,0 +1,32 @@
+.container {
+  margin-top: 80px;
+}
+
+.button-group {
+  width: 100%;
+
+}
+
+.button-group p, .button-group a {
+  display: inline-block;
+}
+
+.button-group p {
+  margin-left: 10px;
+}
+
+input[type="checkbox"] {
+  margin-left: 10px !important;
+}
+
+.form-button-group {
+  margin-top: 10px;
+}
+
+.form-button-group .btn {
+  margin-left: 20px;
+}
+
+.form-button-group .btn:first-child {
+  margin-left: 0px;
+}
